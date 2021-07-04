@@ -24,7 +24,7 @@ in your file:
         // You have to provide your mongoose model and the req object
         const { pagesNum, docs } = async paginate({ model: City, req });
 
-    	res.json({ pagesNum, docs });
+    	  res.json({ pagesNum, docs });
 
     })
 

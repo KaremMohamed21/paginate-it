@@ -1,6 +1,6 @@
 {
   "name": "paginate-it",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This is utility package for handling backend pagination with expressJs and Mongoose",
   "main": "index.js",
   "scripts": {
